@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+
+height: 100vh;
+
+width: 100vh;
+
+background: linear-gradient(#79e4a6, black);
+font-family: cursive;
+}
+tag{
+    background-color: #79e4a6;
+    border-radius: 100px;
+}
