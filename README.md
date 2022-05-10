@@ -1,2 +1,2 @@
 # FilmeFlix
-Projeto para aprender a utilizar o git/github de forma colaborativa
+É um projeto de site de de variados filmes
