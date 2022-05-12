@@ -47,3 +47,13 @@ font-size: 22px;
     background-size: cover;
     background-color:  rgb(18, 22, 83);
 }
+
+.logo
+{
+    width: 200px;
+    border:20px;
+    border-radius: 15px;
+    width: 19%;
+    margin: 45px;
+    
+}
