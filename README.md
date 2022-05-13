@@ -18,7 +18,7 @@ _Joabe_
 
 - [x] Tela dos Filmes parte 2
 - [x] Fazer README
-- [x] Tela de Login para o site
+- [x] Aprimoramento do HTML de "filmes parte 1"
 
 ## Trabalho FilmeFlix integrantes:
 * Joabe Jonatan
